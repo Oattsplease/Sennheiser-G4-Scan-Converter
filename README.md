@@ -1,7 +1,9 @@
 # Sennheiser-G4-Scan-Converter
 Made to be used with Google Sheets/Appscript & RF Explorer/Touchstone Pro Scans, to convert and format CSV's to Sennheiser WSM format
 
-Link to my own sheet for usage:[Wireless Frequency Range Document - RF Explorer CSV to Sennheiser WSM CSV](https://docs.google.com/spreadsheets/d/1J3ns_adF1a7abeK9_Y9u7mm-bNHIiVYPU-pPMlAzFLo/edit?usp=sharing)
+Link to my own sheet for usage:
+
+[Wireless Frequency Range Document - RF Explorer CSV to Sennheiser WSM CSV](https://docs.google.com/spreadsheets/d/1J3ns_adF1a7abeK9_Y9u7mm-bNHIiVYPU-pPMlAzFLo/edit?usp=sharing)
 
 Largely inspired by this video: [Loading RF Scans ingo IAS, WWB6 and WSM - PeterErskine](https://www.youtube.com/watch?v=sivL8lQQKws&ab_channel=PeteErskine)
 And people from this thread: [ProSoundWeb Community - RF Explorer to WSM](https://forums.prosoundweb.com/index.php?topic=163644.0)
