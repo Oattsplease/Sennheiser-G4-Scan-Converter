@@ -9,6 +9,8 @@ Largely inspired by this video: [Loading RF Scans ingo IAS, WWB6 and WSM - Peter
 
 And people from this thread: [ProSoundWeb Community - RF Explorer to WSM](https://forums.prosoundweb.com/index.php?topic=163644.0)
 
+Export CSV from [Michael Derazon](https://gist.github.com/mderazon/9655893)
+
 ---
 
 ## How to set up the .gs Appscript File on Google Sheets:
